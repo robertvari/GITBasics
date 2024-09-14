@@ -3,3 +3,4 @@ My name is Robert.
 This is a new feature.
 
 New feature: Weapon system
+Fixed weapon system
